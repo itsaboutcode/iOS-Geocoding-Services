@@ -81,7 +81,7 @@
 		[delegate reverseGeocoder:self didFindAddress:resultAddress];
 	}else{
 		//if status code is not OK
-		NSError *error;
+		NSError *error = nil;
 		
 		if([status isEqualToString:@"ZERO_RESULTS"])
 		{
