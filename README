@@ -23,4 +23,4 @@ Everything is released under the BSD License, all code is free to use in any pro
 --OTHER NOTES-
 - Any comments regarding the services, suggestions, notes on bugs or comments on the MKReverseGeocoder failure issue are welcome. 
 
-- The services rely on the open source Objective-C JSON framework (http://code.google.com/p/json-framework/) it's only been tested with the version included with the project. 
+- The services rely on the open source Objective-C JSON framework (https://github.com/stig/json-framework/) it's only been tested with the version included with the project. 
